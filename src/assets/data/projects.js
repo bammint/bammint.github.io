@@ -23,7 +23,7 @@ const projects = [
     desc:
       '현재 운영중인 다소니 심리상담센터의 사이트를 보고 만든 다소니 사이트입니다',
     img: Dasoni,
-    url: 'https://bammint.github.io/pf/dasoni/index.html',
+    url: 'https://bammint.github.io/fsweb/Back/dasoni/index.html',
     detail: null,
   },
   // {
